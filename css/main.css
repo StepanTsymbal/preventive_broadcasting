@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.divTable {
+	display: table;
+	width: 100%;
+  font-size: 0;
+}
+
+.divTableRow {
+	display: table-row;
+}
+
+.divTableCell {
+  display: inline-block;
+}
+
+.divTableBody {
+	display: table-row-group;
+}
